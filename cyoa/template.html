@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{.Title}}</title>
+</head>
+<body>
+    <h3> 故事 </h1>
+    {{range .Story}}
+        <p>
+            {{.}}
+        </p>
+    {{end}}
+    <h3> 选项 </h1>
+    {{range .Options}}
+        <p>
+            <a href="/{{.Arc}}">{{.Text}}</a>
+        </p>
+    {{end}}
+</body>
+</html>
