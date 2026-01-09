@@ -10,4 +10,5 @@
 - [x] [Exercise #3: Choose your own adventure](cyoa/README.md)
 - [x] [Exercise #4: HTML Link Parser](link/README.md)
 - [x] [Exercise #5: Sitemap Builder](sitemap/README.md)
+- [ ] [Exercise #7: CLI Task Manager](task/README.md)
 - [x] [Exercise #8: Phone Number Normalizer](phone/README.md)
