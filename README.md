@@ -9,4 +9,5 @@
 - [x] [Exercise #2: URL Shortener](urlshort/README.md)
 - [x] [Exercise #3: Choose your own adventure](cyoa/README.md)
 - [x] [Exercise #4: HTML Link Parser](link/README.md)
+- [x] [Exercise #5: Sitemap Builder](sitemap/README.md)
 - [x] [Exercise #8: Phone Number Normalizer](phone/README.md)
